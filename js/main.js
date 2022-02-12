@@ -11,4 +11,5 @@ document.getElementById('login-submit').addEventListener('click', function(){
         const errorMassage = document.getElementById('error-massage');
         errorMassage.innerText = 'Invalid Email or Password';
     }
-})
+});
+
